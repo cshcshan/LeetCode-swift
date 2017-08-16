@@ -22,7 +22,9 @@
 		332B92C01F41B151009FF50B /* 26. Remove Duplicates from Sorted Array.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "26. Remove Duplicates from Sorted Array.playground"; sourceTree = "<group>"; };
 		332B92C21F42C00D009FF50B /* 14. Longest Common Prefix.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "14. Longest Common Prefix.playground"; sourceTree = "<group>"; };
 		333051761F42FC0700419608 /* 168. Excel Sheet Column Title.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "168. Excel Sheet Column Title.playground"; sourceTree = "<group>"; };
+		339E1F601F44610000CD4285 /* 419. Battleships in a Board.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "419. Battleships in a Board.playground"; sourceTree = "<group>"; };
 		33AD23251F419233001F1C53 /* 13. Roman to Integer.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "13. Roman to Integer.playground"; sourceTree = "<group>"; };
+		33CF0DBA1F445694000F2C2A /* 537. Complex Number Multiplication.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "537. Complex Number Multiplication.playground"; sourceTree = "<group>"; };
 		33EC54191F41726D00BF80F4 /* leetcode-swift.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "leetcode-swift.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		33EC541C1F41726D00BF80F4 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		33EC541E1F41726D00BF80F4 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -88,8 +90,10 @@
 				332B92BE1F41A7E7009FF50B /* 27. Remove Element.playground */,
 				332B92BF1F41B02C009FF50B /* 35. Search Insert Position.playground */,
 				33020BC51F42D66F00F4CADE /* 39. Combination Sum.playground */,
-				33020BC61F42EDB700F4CADE /* 654. Maximum Binary Tree.playground */,
 				333051761F42FC0700419608 /* 168. Excel Sheet Column Title.playground */,
+				339E1F601F44610000CD4285 /* 419. Battleships in a Board.playground */,
+				33CF0DBA1F445694000F2C2A /* 537. Complex Number Multiplication.playground */,
+				33020BC61F42EDB700F4CADE /* 654. Maximum Binary Tree.playground */,
 			);
 			path = Algorithms;
 			sourceTree = "<group>";
