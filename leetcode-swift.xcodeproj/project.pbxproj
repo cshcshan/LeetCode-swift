@@ -17,6 +17,7 @@
 /* Begin PBXFileReference section */
 		33020BC51F42D66F00F4CADE /* 39. Combination Sum.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "39. Combination Sum.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		33020BC61F42EDB700F4CADE /* 654. Maximum Binary Tree.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "654. Maximum Binary Tree.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		330659B52288074C000DCBDA /* 2. Add Two Numbers.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2. Add Two Numbers.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		332B92BE1F41A7E7009FF50B /* 27. Remove Element.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "27. Remove Element.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		332B92BF1F41B02C009FF50B /* 35. Search Insert Position.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "35. Search Insert Position.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		332B92C01F41B151009FF50B /* 26. Remove Duplicates from Sorted Array.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "26. Remove Duplicates from Sorted Array.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -83,6 +84,7 @@
 			isa = PBXGroup;
 			children = (
 				33EC54321F417C0A00BF80F4 /* 1. Two Sum.playground */,
+				330659B52288074C000DCBDA /* 2. Add Two Numbers.playground */,
 				33EC54331F417C4900BF80F4 /* 7. Reverse Integer.playground */,
 				33EC54351F418E4700BF80F4 /* 9. Palindrome Number.playground */,
 				33AD23251F419233001F1C53 /* 13. Roman to Integer.playground */,
