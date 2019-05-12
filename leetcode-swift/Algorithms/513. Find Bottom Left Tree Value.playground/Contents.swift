@@ -1,7 +1,10 @@
 
 /*
  
- Example 1:
+ Given a binary tree, find the leftmost value in the last row of the tree.
+ 
+ # Example 1:
+ 
  Input:
  
    2
@@ -11,7 +14,8 @@
  Output:
  1
  
- Example 2:
+ # Example 2:
+ 
  Input:
  
        1
@@ -24,6 +28,8 @@
  
  Output:
  7
+ 
+ Note: You may assume the tree (i.e., the given root node) is not NULL.
  
  */
 
@@ -38,24 +44,24 @@ public class TreeNode {
     }
 }
 class Solution {
-  func findBottomLeftValue(_ root: TreeNode?) -> Int {
-    var level = 0
-    var array = [Int]()
-    recursive(root!, level: &level, array: &array)
-    return array[array.count - 1]
-  }
-  
-  func recursive(_ treeNode: TreeNode, level: inout Int, array: inout [Int]) {
-    if array[level] == nil {
-      print("aaa")
-      array[level] = 0
+    func findBottomLeftValue(_ root: TreeNode?) -> Int {
+        var level = 0
+        var array = [Int]()
+        recursive(root!, level: &level, array: &array)
+        return array[array.count - 1]
     }
-    array[level] = treeNode.val
-    if let leftNode = treeNode.left {
-      level += 1
-      recursive(leftNode, level: &level, array: &array)
+    
+    func recursive(_ treeNode: TreeNode, level: inout Int, array: inout [Int]) {
+        if array[level] == nil {
+            print("aaa")
+            array[level] = 0
+        }
+        array[level] = treeNode.val
+        if let leftNode = treeNode.left {
+            level += 1
+            recursive(leftNode, level: &level, array: &array)
+        }
     }
-  }
 }
 var treeNode = TreeNode(2)
 treeNode.left = TreeNode(1)
