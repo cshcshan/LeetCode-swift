@@ -67,9 +67,20 @@ class Solution {
         return max(maxDepth(node.left), maxDepth(node.right)) + 1
     }
 }
-let node = TreeNode(3)
+var node = TreeNode(3)
 node.left = TreeNode(9)
 node.right = TreeNode(20)
 node.right?.left = TreeNode(15)
 node.right?.right = TreeNode(7)
+Solution().maxDepth(node)
+
+node = TreeNode(4)
+node.left = TreeNode(1)
+node.left?.left = TreeNode(0)
+node.left?.right = TreeNode(2)
+node.left?.right?.right = TreeNode(3)
+node.right = TreeNode(6)
+node.right?.left = TreeNode(5)
+node.right?.right = TreeNode(7)
+node.right?.right?.right = TreeNode(8)
 Solution().maxDepth(node)
