@@ -138,5 +138,4 @@ class Solution {
     }
 }
 let newNode = Solution().bstToGst(node)
-
 Solution().printNode(newNode)
