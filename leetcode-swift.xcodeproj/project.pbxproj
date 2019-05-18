@@ -23,6 +23,7 @@
 		330659B82289910E000DCBDA /* 104. Maximum Depth of Binary Tree.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "104. Maximum Depth of Binary Tree.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		33195B91228A787400C3D3A5 /* 1021. Remove Outermost Parentheses.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1021. Remove Outermost Parentheses.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		33195B92228A98D400C3D3A5 /* 701. Insert into a Binary Search Tree.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "701. Insert into a Binary Search Tree.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		33195B93228AA19500C3D3A5 /* 977. Squares of a Sorted Array.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "977. Squares of a Sorted Array.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		3323AC8722899BBD006DBA3D /* 136. Single Number.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "136. Single Number.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		3323AC882289A456006DBA3D /* 1038. Binary Search Tree to Greater Sum Tree.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1038. Binary Search Tree to Greater Sum Tree.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		332B92BE1F41A7E7009FF50B /* 27. Remove Element.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "27. Remove Element.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -110,6 +111,7 @@
 				33020BC61F42EDB700F4CADE /* 654. Maximum Binary Tree.playground */,
 				33195B92228A98D400C3D3A5 /* 701. Insert into a Binary Search Tree.playground */,
 				330659B62288096C000DCBDA /* 771. Jewels and Stones.playground */,
+				33195B93228AA19500C3D3A5 /* 977. Squares of a Sorted Array.playground */,
 				33195B91228A787400C3D3A5 /* 1021. Remove Outermost Parentheses.playground */,
 				3323AC882289A456006DBA3D /* 1038. Binary Search Tree to Greater Sum Tree.playground */,
 			);
@@ -154,10 +156,9 @@
 			};
 			buildConfigurationList = 33EC54141F41726D00BF80F4 /* Build configuration list for PBXProject "leetcode-swift" */;
 			compatibilityVersion = "Xcode 3.2";
-			developmentRegion = English;
+			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
-				English,
 				en,
 				Base,
 			);
