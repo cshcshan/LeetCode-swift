@@ -35,6 +35,7 @@ class Solution {
         return true
     }
 }
+
 Solution().isPalindrome(100)
 Solution().isPalindrome(1010)
 Solution().isPalindrome(10101)

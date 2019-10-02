@@ -45,6 +45,7 @@ class Solution {
     return result
   }
 }
+
 Solution().complexNumberMultiply("1+1i", "1+1i")
 Solution().complexNumberMultiply("1+-1i", "1+-1i")
 Solution().complexNumberMultiply("2+3i", "2+3i")

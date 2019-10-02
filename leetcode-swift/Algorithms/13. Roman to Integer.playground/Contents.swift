@@ -38,6 +38,7 @@ class Solution {
         return value
     }
 }
+
 Solution().romanToInt("1")
 Solution().romanToInt("ZDA")
 Solution().romanToInt("DCXXI")

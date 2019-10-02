@@ -5,9 +5,8 @@
  The same repeated number may be chosen from candidates unlimited number of times.
  
  Note:
- 
- All numbers (including target) will be positive integers.
- The solution set must not contain duplicate combinations.
+    * All numbers (including target) will be positive integers.
+    * The solution set must not contain duplicate combinations.
  
  # Example 1:
  
@@ -35,13 +34,13 @@ class Solution {
         let num_Array = candidates.sorted { (int1, int2) -> Bool in
             return int1 < int2
         }
-        
+
         var result = [[Int]]()
         recursive(0, num_Array: num_Array, target: target, subresult: [Int](), result: &result)
-        
+
         return result
     }
-    
+
     func recursive(_ index: Int, num_Array: [Int]!, target: Int, subresult: [Int], result: inout [[Int]]) {
         if target == 0 {
             result.append(subresult)
@@ -59,4 +58,6 @@ class Solution {
         }
     }
 }
+
 Solution().combinationSum([2, 3, 6, 7], 7)
+Solution().combinationSum([2, 3, 5], 8)

@@ -53,6 +53,7 @@ class Solution {
         }
     }
 }
+
 Solution().convertToTitle(1)
 Solution().convertToTitle(23)
 Solution().convertToTitle(25)

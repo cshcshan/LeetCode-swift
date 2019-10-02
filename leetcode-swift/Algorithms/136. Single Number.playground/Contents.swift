@@ -49,5 +49,6 @@ class Solution {
         return result
     }
 }
+
 Solution().singleNumber([2, 2, 1])
 Solution().singleNumber([4,1,2,1,2])

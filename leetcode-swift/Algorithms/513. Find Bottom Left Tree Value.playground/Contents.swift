@@ -63,6 +63,7 @@ class Solution {
         }
     }
 }
+
 var treeNode = TreeNode(2)
 treeNode.left = TreeNode(1)
 treeNode.right = TreeNode(3)

@@ -51,5 +51,6 @@ class Solution {
         return value
     }
 }
+
 Solution().countBattleships([["X","."]])
 //Solution().countBattleships(["X..X","...X","...X"])

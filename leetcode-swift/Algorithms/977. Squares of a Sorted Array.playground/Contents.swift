@@ -122,7 +122,7 @@ class Solution {
 //        return result
 //    }
     
-    // *** 252 ms / 22.6 MB MB ***
+    // *** 252 ms / 22.6 MB ***
     func sortedSquares(_ A: [Int]) -> [Int] {
         guard A.count > 0 else { return A }
         var result: [Int] = []

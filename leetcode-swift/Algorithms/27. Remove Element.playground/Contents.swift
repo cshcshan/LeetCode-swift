@@ -44,17 +44,21 @@
  */
 
 class Solution {
+    
+    // *** 8 ms, faster than 90.48% ***
+    // *** 21 MB, less than 100.00% ***
     func removeElement(_ nums: inout [Int], _ val: Int) -> Int {
-        for index in stride(from: nums.count - 1, to: -1, by: -1) {
-            if nums[index] == val {
-                nums.remove(at: index)
-            }
+        for index in stride(from: nums.count-1, through: 0, by: -1) {
+            guard nums[index] == val else { continue }
+            nums.remove(at: index)
         }
-        
         return nums.count
     }
 }
+
 var int_Array = [3,3,2,2,3]
-Solution().removeElement(&int_Array, 3)
-var int_Array2 = [1]
-Solution().removeElement(&int_Array2, 1)
+Solution().removeElement(&int_Array, 3) // 2
+int_Array = [0,1,2,2,3,0,4,2]
+Solution().removeElement(&int_Array, 2) // 5
+int_Array = [1]
+Solution().removeElement(&int_Array, 1) // 0

@@ -48,6 +48,7 @@ class Solution {
         }
     }
 }
+
 Solution().reverse(1534236469)
 Solution().reverse(-2147483412)
 Solution().reverse(-2147483648)

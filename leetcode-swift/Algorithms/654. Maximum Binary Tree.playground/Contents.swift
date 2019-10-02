@@ -57,6 +57,7 @@ class Solution {
         return treeNode
     }
 }
+
 Solution().constructMaximumBinaryTree([3,2,1,6,0,5])
 Solution().constructMaximumBinaryTree([6,0,5])
 Solution().constructMaximumBinaryTree([3,2,1,6])

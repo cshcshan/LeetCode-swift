@@ -40,5 +40,6 @@ class Solution {
         return amount
     }
 }
+
 Solution().numJewelsInStones("aA", "aAAbbbb")
 Solution().numJewelsInStones("z", "ZZ")

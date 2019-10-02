@@ -137,5 +137,6 @@ class Solution {
         printNode(node.right)
     }
 }
+
 let newNode = Solution().bstToGst(node)
 Solution().printNode(newNode)

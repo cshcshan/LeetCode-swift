@@ -38,18 +38,47 @@
  */
 
 class Solution {
+    
+    // *** 80 ms / 21.3 MB ***
     func removeDuplicates(_ nums: inout [Int]) -> Int {
-        
         for index in stride(from: nums.count-1, to: -1, by: -1) {
-            if index > 0 {
-                if nums[index - 1] == nums[index] {
-                    nums.remove(at: index)
-                }
+            guard index > 0 else { continue }
+            if nums[index - 1] == nums[index] {
+                nums.remove(at: index)
             }
         }
-        
         return nums.count
     }
 }
+
 var int_Array = [1,1,2]
 Solution().removeDuplicates(&int_Array)
+
+int_Array = [0,0,1,1,1,2,2,3,3,4]
+Solution().removeDuplicates(&int_Array)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

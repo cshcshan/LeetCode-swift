@@ -51,5 +51,6 @@ class Solution {
         return result
     }
 }
+
 Solution().longestCommonPrefix(["abc","abcd","abcde","ab"])
 Solution().longestCommonPrefix(["aca","cba"])

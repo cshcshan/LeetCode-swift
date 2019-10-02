@@ -1,3 +1,4 @@
+
 /*
  
  Given an array of integers, return indices of the two numbers such that they add up to a specific target.
@@ -13,16 +14,22 @@
  
  */
 
-func twoSum(_ nums: [Int], _ target: Int) -> [Int] {
-    var dict = [Int: Int]() // [complement, index]
-    for index in 0..<nums.count {
-        let complement = target - nums[index]
-        if let i = dict[nums[index]] {
-            return [i, index]
-        } else {
-            dict[complement] = index
+class Solution {
+    
+    // *** 32 ms / 21.1 MB ***
+    func twoSum(_ nums: [Int], _ target: Int) -> [Int] {
+        var dict = [Int: Int]()
+        for index in 0..<nums.count {
+            let num = nums[index]
+            let complement = target - num
+            if let complementIndex = dict[num] {
+                return [complementIndex, index]
+            } else {
+                dict[complement] = index
+            }
         }
+        return []
     }
-    return [0]
 }
-twoSum([2, 7, 11, 15], 9)
+
+Solution().twoSum([2, 7, 11, 15], 9)
