@@ -39,6 +39,7 @@
 		33B1AF1B2344B60B007B7E8E /* 832. Flipping an Image.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "832. Flipping an Image.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		33B1AF1C2344B89D007B7E8E /* 905. Sort Array By Parity.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "905. Sort Array By Parity.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		33B1AF1D2344C34F007B7E8E /* 950. Reveal Cards In Increasing Order.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "950. Reveal Cards In Increasing Order.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		33B1AF1E2344DA3B007B7E8E /* 442. Find All Duplicates in an Array.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "442. Find All Duplicates in an Array.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		33CF0DBA1F445694000F2C2A /* 537. Complex Number Multiplication.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "537. Complex Number Multiplication.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		33EC54191F41726D00BF80F4 /* leetcode-swift.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "leetcode-swift.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		33EC541C1F41726D00BF80F4 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -113,6 +114,7 @@
 				333051761F42FC0700419608 /* 168. Excel Sheet Column Title.playground */,
 				330659B722880E90000DCBDA /* 389. Find the Difference.playground */,
 				339E1F601F44610000CD4285 /* 419. Battleships in a Board.playground */,
+				33B1AF1E2344DA3B007B7E8E /* 442. Find All Duplicates in an Array.playground */,
 				3368F7DC1F446B6200D7282C /* 513. Find Bottom Left Tree Value.playground */,
 				33CF0DBA1F445694000F2C2A /* 537. Complex Number Multiplication.playground */,
 				33020BC61F42EDB700F4CADE /* 654. Maximum Binary Tree.playground */,
