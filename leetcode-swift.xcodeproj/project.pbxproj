@@ -41,6 +41,7 @@
 		33B1AF1D2344C34F007B7E8E /* 950. Reveal Cards In Increasing Order.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "950. Reveal Cards In Increasing Order.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		33B1AF1E2344DA3B007B7E8E /* 442. Find All Duplicates in an Array.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "442. Find All Duplicates in an Array.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		33B1AF1F2345C3B7007B7E8E /* 48. Rotate Image.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "48. Rotate Image.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		33B1AF202345DED0007B7E8E /* 888. Fair Candy Swap.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "888. Fair Candy Swap.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		33CF0DBA1F445694000F2C2A /* 537. Complex Number Multiplication.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "537. Complex Number Multiplication.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		33EC54191F41726D00BF80F4 /* leetcode-swift.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "leetcode-swift.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		33EC541C1F41726D00BF80F4 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -123,6 +124,7 @@
 				33195B92228A98D400C3D3A5 /* 701. Insert into a Binary Search Tree.playground */,
 				330659B62288096C000DCBDA /* 771. Jewels and Stones.playground */,
 				33B1AF1B2344B60B007B7E8E /* 832. Flipping an Image.playground */,
+				33B1AF202345DED0007B7E8E /* 888. Fair Candy Swap.playground */,
 				33B1AF1C2344B89D007B7E8E /* 905. Sort Array By Parity.playground */,
 				33B1AF1D2344C34F007B7E8E /* 950. Reveal Cards In Increasing Order.playground */,
 				33195B93228AA19500C3D3A5 /* 977. Squares of a Sorted Array.playground */,
