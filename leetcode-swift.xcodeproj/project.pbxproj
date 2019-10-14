@@ -31,6 +31,7 @@
 		332B92C01F41B151009FF50B /* 26. Remove Duplicates from Sorted Array.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "26. Remove Duplicates from Sorted Array.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		332B92C21F42C00D009FF50B /* 14. Longest Common Prefix.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "14. Longest Common Prefix.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		333051761F42FC0700419608 /* 168. Excel Sheet Column Title.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "168. Excel Sheet Column Title.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		33452C7F23542C610066F9D8 /* 807. Max Increase to Keep City Skyline.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "807. Max Increase to Keep City Skyline.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		335C07F123448F54004C58FC /* 11. Container With Most Water.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "11. Container With Most Water.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		3368F7DC1F446B6200D7282C /* 513. Find Bottom Left Tree Value.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "513. Find Bottom Left Tree Value.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		339E1F601F44610000CD4285 /* 419. Battleships in a Board.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "419. Battleships in a Board.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -127,6 +128,7 @@
 				33020BC61F42EDB700F4CADE /* 654. Maximum Binary Tree.playground */,
 				33195B92228A98D400C3D3A5 /* 701. Insert into a Binary Search Tree.playground */,
 				330659B62288096C000DCBDA /* 771. Jewels and Stones.playground */,
+				33452C7F23542C610066F9D8 /* 807. Max Increase to Keep City Skyline.playground */,
 				33B1AF1B2344B60B007B7E8E /* 832. Flipping an Image.playground */,
 				33B1AF202345DED0007B7E8E /* 888. Fair Candy Swap.playground */,
 				33B1AF1C2344B89D007B7E8E /* 905. Sort Array By Parity.playground */,
