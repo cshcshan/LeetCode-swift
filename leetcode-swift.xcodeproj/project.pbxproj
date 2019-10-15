@@ -37,6 +37,7 @@
 		335C07F123448F54004C58FC /* 11. Container With Most Water.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "11. Container With Most Water.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		3368F7DC1F446B6200D7282C /* 513. Find Bottom Left Tree Value.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "513. Find Bottom Left Tree Value.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		339E1F601F44610000CD4285 /* 419. Battleships in a Board.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "419. Battleships in a Board.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		33A7B4C92355DFE6007505FF /* 852. Peak Index in a Mountain Array.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "852. Peak Index in a Mountain Array.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		33ABF32A232256F70076EC7B /* 21. Merge Two Sorted Lists.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "21. Merge Two Sorted Lists.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		33AD23251F419233001F1C53 /* 13. Roman to Integer.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "13. Roman to Integer.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		33B1AF1B2344B60B007B7E8E /* 832. Flipping an Image.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "832. Flipping an Image.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -134,6 +135,7 @@
 				330659B62288096C000DCBDA /* 771. Jewels and Stones.playground */,
 				33452C7F23542C610066F9D8 /* 807. Max Increase to Keep City Skyline.playground */,
 				33B1AF1B2344B60B007B7E8E /* 832. Flipping an Image.playground */,
+				33A7B4C92355DFE6007505FF /* 852. Peak Index in a Mountain Array.playground */,
 				33B1AF202345DED0007B7E8E /* 888. Fair Candy Swap.playground */,
 				33B1AF1C2344B89D007B7E8E /* 905. Sort Array By Parity.playground */,
 				33D4064F2347587B00B1AE57 /* 922. Sort Array By Parity II.playground */,
