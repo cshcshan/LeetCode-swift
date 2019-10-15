@@ -47,6 +47,7 @@
 		33B1AF1F2345C3B7007B7E8E /* 48. Rotate Image.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "48. Rotate Image.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		33B1AF202345DED0007B7E8E /* 888. Fair Candy Swap.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "888. Fair Candy Swap.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		33B1AF212345F5FD007B7E8E /* 561. Array Partition I.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "561. Array Partition I.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		33B28A242355E4D800F88CB0 /* 162. Find Peak Element.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "162. Find Peak Element.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		33CF0DBA1F445694000F2C2A /* 537. Complex Number Multiplication.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "537. Complex Number Multiplication.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		33D4064F2347587B00B1AE57 /* 922. Sort Array By Parity II.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "922. Sort Array By Parity II.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		33D40653234838E900B1AE57 /* 969. Pancake Sorting.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "969. Pancake Sorting.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -123,6 +124,7 @@
 				33452C812354520F0066F9D8 /* 59. Spiral Matrix II.playground */,
 				330659B82289910E000DCBDA /* 104. Maximum Depth of Binary Tree.playground */,
 				3323AC8722899BBD006DBA3D /* 136. Single Number.playground */,
+				33B28A242355E4D800F88CB0 /* 162. Find Peak Element.playground */,
 				333051761F42FC0700419608 /* 168. Excel Sheet Column Title.playground */,
 				330659B722880E90000DCBDA /* 389. Find the Difference.playground */,
 				339E1F601F44610000CD4285 /* 419. Battleships in a Board.playground */,
