@@ -63,6 +63,7 @@
 		33EC54321F417C0A00BF80F4 /* 1. Two Sum.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1. Two Sum.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		33EC54331F417C4900BF80F4 /* 7. Reverse Integer.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "7. Reverse Integer.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		33EC54351F418E4700BF80F4 /* 9. Palindrome Number.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "9. Palindrome Number.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		33EFC0332358633D00CF816A /* 344. Reverse String.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "344. Reverse String.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -130,6 +131,7 @@
 				3361F54C235737A2009C1F56 /* 154. Find Minimum in Rotated Sorted Array II.playground */,
 				33B28A242355E4D800F88CB0 /* 162. Find Peak Element.playground */,
 				333051761F42FC0700419608 /* 168. Excel Sheet Column Title.playground */,
+				33EFC0332358633D00CF816A /* 344. Reverse String.playground */,
 				330659B722880E90000DCBDA /* 389. Find the Difference.playground */,
 				339E1F601F44610000CD4285 /* 419. Battleships in a Board.playground */,
 				33B1AF1E2344DA3B007B7E8E /* 442. Find All Duplicates in an Array.playground */,
