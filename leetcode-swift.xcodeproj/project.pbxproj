@@ -44,6 +44,7 @@
 		334F000E236FA7C70033A530 /* 448. Find All Numbers Disappeared in an Array.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "448. Find All Numbers Disappeared in an Array.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		334F000F236FAE240033A530 /* 41. First Missing Positive.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "41. First Missing Positive.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		334F0010236FB3030033A530 /* 287. Find the Duplicate Number.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "287. Find the Duplicate Number.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		334F0012236FDB610033A530 /* 412. Fizz Buzz.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "412. Fizz Buzz.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		334FFFFD23693B380033A530 /* 338. Counting Bits.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "338. Counting Bits.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		335C07F123448F54004C58FC /* 11. Container With Most Water.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "11. Container With Most Water.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		3361F54C235737A2009C1F56 /* 154. Find Minimum in Rotated Sorted Array II.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "154. Find Minimum in Rotated Sorted Array II.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -153,6 +154,7 @@
 				334FFFFD23693B380033A530 /* 338. Counting Bits.playground */,
 				33EFC0332358633D00CF816A /* 344. Reverse String.playground */,
 				330659B722880E90000DCBDA /* 389. Find the Difference.playground */,
+				334F0012236FDB610033A530 /* 412. Fizz Buzz.playground */,
 				339E1F601F44610000CD4285 /* 419. Battleships in a Board.playground */,
 				33B1AF1E2344DA3B007B7E8E /* 442. Find All Duplicates in an Array.playground */,
 				334F000E236FA7C70033A530 /* 448. Find All Numbers Disappeared in an Array.playground */,
