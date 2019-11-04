@@ -42,6 +42,7 @@
 		334F000C236BD3600033A530 /* 283. Move Zeroes.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "283. Move Zeroes.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		334F000D236D4C200033A530 /* 169. Majority Element.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "169. Majority Element.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		334F000E236FA7C70033A530 /* 448. Find All Numbers Disappeared in an Array.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "448. Find All Numbers Disappeared in an Array.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		334F000F236FAE240033A530 /* 41. First Missing Positive.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "41. First Missing Positive.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		334FFFFD23693B380033A530 /* 338. Counting Bits.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "338. Counting Bits.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		335C07F123448F54004C58FC /* 11. Container With Most Water.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "11. Container With Most Water.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		3361F54C235737A2009C1F56 /* 154. Find Minimum in Rotated Sorted Array II.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "154. Find Minimum in Rotated Sorted Array II.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -131,6 +132,7 @@
 				332B92BE1F41A7E7009FF50B /* 27. Remove Element.playground */,
 				332B92BF1F41B02C009FF50B /* 35. Search Insert Position.playground */,
 				33020BC51F42D66F00F4CADE /* 39. Combination Sum.playground */,
+				334F000F236FAE240033A530 /* 41. First Missing Positive.playground */,
 				33B1AF1F2345C3B7007B7E8E /* 48. Rotate Image.playground */,
 				33452C80235433880066F9D8 /* 54. Spiral Matrix.playground */,
 				33452C812354520F0066F9D8 /* 59. Spiral Matrix II.playground */,
