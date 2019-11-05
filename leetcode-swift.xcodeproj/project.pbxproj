@@ -65,6 +65,7 @@
 		33C0E859237115290092446E /* 242. Valid Anagram.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "242. Valid Anagram.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		33C0E85B2371218A0092446E /* 94. Binary Tree Inorder Traversal.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "94. Binary Tree Inorder Traversal.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		33C0E85C23713CDD0092446E /* 144. Binary Tree Preorder Traversal.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "144. Binary Tree Preorder Traversal.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		33C0E861237188DE0092446E /* 217. Contains Duplicate.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "217. Contains Duplicate.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		33CF0DBA1F445694000F2C2A /* 537. Complex Number Multiplication.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "537. Complex Number Multiplication.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		33D4064F2347587B00B1AE57 /* 922. Sort Array By Parity II.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "922. Sort Array By Parity II.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		33D40653234838E900B1AE57 /* 969. Pancake Sorting.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "969. Pancake Sorting.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -153,6 +154,7 @@
 				333051761F42FC0700419608 /* 168. Excel Sheet Column Title.playground */,
 				334F000D236D4C200033A530 /* 169. Majority Element.playground */,
 				334F000B236BB2BF0033A530 /* 206. Reverse Linked List.playground */,
+				33C0E861237188DE0092446E /* 217. Contains Duplicate.playground */,
 				334F0008236A9B100033A530 /* 226. Invert Binary Tree.playground */,
 				33C0E859237115290092446E /* 242. Valid Anagram.playground */,
 				334F000C236BD3600033A530 /* 283. Move Zeroes.playground */,
