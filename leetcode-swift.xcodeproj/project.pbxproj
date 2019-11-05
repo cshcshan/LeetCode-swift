@@ -64,6 +64,7 @@
 		33B28A242355E4D800F88CB0 /* 162. Find Peak Element.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "162. Find Peak Element.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		33C0E859237115290092446E /* 242. Valid Anagram.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "242. Valid Anagram.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		33C0E85B2371218A0092446E /* 94. Binary Tree Inorder Traversal.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "94. Binary Tree Inorder Traversal.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		33C0E85C23713CDD0092446E /* 144. Binary Tree Preorder Traversal.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "144. Binary Tree Preorder Traversal.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		33CF0DBA1F445694000F2C2A /* 537. Complex Number Multiplication.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "537. Complex Number Multiplication.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		33D4064F2347587B00B1AE57 /* 922. Sort Array By Parity II.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "922. Sort Array By Parity II.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		33D40653234838E900B1AE57 /* 969. Pancake Sorting.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "969. Pancake Sorting.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -145,6 +146,7 @@
 				334F0009236A9DD10033A530 /* 105. Construct Binary Tree from Preorder and Inorder Traversal.playground */,
 				334F000A236BA68A0033A530 /* 106. Construct Binary Tree from Inorder and Postorder Traversal.playground */,
 				3323AC8722899BBD006DBA3D /* 136. Single Number.playground */,
+				33C0E85C23713CDD0092446E /* 144. Binary Tree Preorder Traversal.playground */,
 				33710DB3235728C700AFC685 /* 153. Find Minimum in Rotated Sorted Array.playground */,
 				3361F54C235737A2009C1F56 /* 154. Find Minimum in Rotated Sorted Array II.playground */,
 				33B28A242355E4D800F88CB0 /* 162. Find Peak Element.playground */,
