@@ -63,6 +63,7 @@
 		33B1AF212345F5FD007B7E8E /* 561. Array Partition I.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "561. Array Partition I.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		33B28A242355E4D800F88CB0 /* 162. Find Peak Element.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "162. Find Peak Element.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		33C0E859237115290092446E /* 242. Valid Anagram.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "242. Valid Anagram.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		33C0E85B2371218A0092446E /* 94. Binary Tree Inorder Traversal.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "94. Binary Tree Inorder Traversal.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		33CF0DBA1F445694000F2C2A /* 537. Complex Number Multiplication.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "537. Complex Number Multiplication.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		33D4064F2347587B00B1AE57 /* 922. Sort Array By Parity II.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "922. Sort Array By Parity II.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		33D40653234838E900B1AE57 /* 969. Pancake Sorting.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "969. Pancake Sorting.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -139,6 +140,7 @@
 				33B1AF1F2345C3B7007B7E8E /* 48. Rotate Image.playground */,
 				33452C80235433880066F9D8 /* 54. Spiral Matrix.playground */,
 				33452C812354520F0066F9D8 /* 59. Spiral Matrix II.playground */,
+				33C0E85B2371218A0092446E /* 94. Binary Tree Inorder Traversal.playground */,
 				330659B82289910E000DCBDA /* 104. Maximum Depth of Binary Tree.playground */,
 				334F0009236A9DD10033A530 /* 105. Construct Binary Tree from Preorder and Inorder Traversal.playground */,
 				334F000A236BA68A0033A530 /* 106. Construct Binary Tree from Inorder and Postorder Traversal.playground */,
