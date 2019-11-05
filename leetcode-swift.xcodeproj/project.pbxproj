@@ -62,6 +62,7 @@
 		33B1AF202345DED0007B7E8E /* 888. Fair Candy Swap.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "888. Fair Candy Swap.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		33B1AF212345F5FD007B7E8E /* 561. Array Partition I.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "561. Array Partition I.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		33B28A242355E4D800F88CB0 /* 162. Find Peak Element.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "162. Find Peak Element.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		33C0E859237115290092446E /* 242. Valid Anagram.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "242. Valid Anagram.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		33CF0DBA1F445694000F2C2A /* 537. Complex Number Multiplication.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "537. Complex Number Multiplication.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		33D4064F2347587B00B1AE57 /* 922. Sort Array By Parity II.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "922. Sort Array By Parity II.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		33D40653234838E900B1AE57 /* 969. Pancake Sorting.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "969. Pancake Sorting.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -149,6 +150,7 @@
 				334F000D236D4C200033A530 /* 169. Majority Element.playground */,
 				334F000B236BB2BF0033A530 /* 206. Reverse Linked List.playground */,
 				334F0008236A9B100033A530 /* 226. Invert Binary Tree.playground */,
+				33C0E859237115290092446E /* 242. Valid Anagram.playground */,
 				334F000C236BD3600033A530 /* 283. Move Zeroes.playground */,
 				334F0010236FB3030033A530 /* 287. Find the Duplicate Number.playground */,
 				334FFFFD23693B380033A530 /* 338. Counting Bits.playground */,
