@@ -27,6 +27,7 @@
 		3323AC8722899BBD006DBA3D /* 136. Single Number.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "136. Single Number.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		3323AC882289A456006DBA3D /* 1038. Binary Search Tree to Greater Sum Tree.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1038. Binary Search Tree to Greater Sum Tree.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		332AFB3F2376469C00C96BD1 /* 350. Intersection of Two Arrays II.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "350. Intersection of Two Arrays II.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		332AFB4023769D9E00C96BD1 /* 121. Best Time to Buy and Sell Stock.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "121. Best Time to Buy and Sell Stock.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		332B92BE1F41A7E7009FF50B /* 27. Remove Element.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "27. Remove Element.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		332B92BF1F41B02C009FF50B /* 35. Search Insert Position.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "35. Search Insert Position.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		332B92C01F41B151009FF50B /* 26. Remove Duplicates from Sorted Array.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "26. Remove Duplicates from Sorted Array.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -149,6 +150,7 @@
 				330659B82289910E000DCBDA /* 104. Maximum Depth of Binary Tree.playground */,
 				334F0009236A9DD10033A530 /* 105. Construct Binary Tree from Preorder and Inorder Traversal.playground */,
 				334F000A236BA68A0033A530 /* 106. Construct Binary Tree from Inorder and Postorder Traversal.playground */,
+				332AFB4023769D9E00C96BD1 /* 121. Best Time to Buy and Sell Stock.playground */,
 				3323AC8722899BBD006DBA3D /* 136. Single Number.playground */,
 				33C0E85C23713CDD0092446E /* 144. Binary Tree Preorder Traversal.playground */,
 				33710DB3235728C700AFC685 /* 153. Find Minimum in Rotated Sorted Array.playground */,
