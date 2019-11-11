@@ -30,6 +30,7 @@
 		332AFB4023769D9E00C96BD1 /* 121. Best Time to Buy and Sell Stock.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "121. Best Time to Buy and Sell Stock.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		332AFB412376A84500C96BD1 /* 122. Best Time to Buy and Sell Stock II.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "122. Best Time to Buy and Sell Stock II.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		332AFB91237901E800C96BD1 /* 108. Convert Sorted Array to Binary Search Tree.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "108. Convert Sorted Array to Binary Search Tree.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		332AFB92237906B000C96BD1 /* 171. Excel Sheet Column Number.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "171. Excel Sheet Column Number.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		332B92BE1F41A7E7009FF50B /* 27. Remove Element.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "27. Remove Element.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		332B92BF1F41B02C009FF50B /* 35. Search Insert Position.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "35. Search Insert Position.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		332B92C01F41B151009FF50B /* 26. Remove Duplicates from Sorted Array.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "26. Remove Duplicates from Sorted Array.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -162,6 +163,7 @@
 				33B28A242355E4D800F88CB0 /* 162. Find Peak Element.playground */,
 				333051761F42FC0700419608 /* 168. Excel Sheet Column Title.playground */,
 				334F000D236D4C200033A530 /* 169. Majority Element.playground */,
+				332AFB92237906B000C96BD1 /* 171. Excel Sheet Column Number.playground */,
 				334F000B236BB2BF0033A530 /* 206. Reverse Linked List.playground */,
 				33C0E861237188DE0092446E /* 217. Contains Duplicate.playground */,
 				33C0E86223727D9E0092446E /* 219. Contains Duplicate II.playground */,
