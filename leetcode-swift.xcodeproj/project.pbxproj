@@ -32,6 +32,7 @@
 		332AFB91237901E800C96BD1 /* 108. Convert Sorted Array to Binary Search Tree.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "108. Convert Sorted Array to Binary Search Tree.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		332AFB92237906B000C96BD1 /* 171. Excel Sheet Column Number.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "171. Excel Sheet Column Number.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		332AFB93237911BA00C96BD1 /* 387. First Unique Character in a String.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "387. First Unique Character in a String.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		332AFB9423792F6600C96BD1 /* 451. Sort Characters By Frequency.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "451. Sort Characters By Frequency.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		332B92BE1F41A7E7009FF50B /* 27. Remove Element.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "27. Remove Element.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		332B92BF1F41B02C009FF50B /* 35. Search Insert Position.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "35. Search Insert Position.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		332B92C01F41B151009FF50B /* 26. Remove Duplicates from Sorted Array.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "26. Remove Duplicates from Sorted Array.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -182,6 +183,7 @@
 				339E1F601F44610000CD4285 /* 419. Battleships in a Board.playground */,
 				33B1AF1E2344DA3B007B7E8E /* 442. Find All Duplicates in an Array.playground */,
 				334F000E236FA7C70033A530 /* 448. Find All Numbers Disappeared in an Array.playground */,
+				332AFB9423792F6600C96BD1 /* 451. Sort Characters By Frequency.playground */,
 				3368F7DC1F446B6200D7282C /* 513. Find Bottom Left Tree Value.playground */,
 				33CF0DBA1F445694000F2C2A /* 537. Complex Number Multiplication.playground */,
 				33B1AF212345F5FD007B7E8E /* 561. Array Partition I.playground */,
