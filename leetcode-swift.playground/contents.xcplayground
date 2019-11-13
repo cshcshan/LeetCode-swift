@@ -1,4 +1,75 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<playground version='5.0' target-platform='ios' executeOnSourceChanges='false'>
-    <timeline fileName='timeline.xctimeline'/>
+<playground version='6.0' target-platform='ios'>
+    <pages>
+        <page name='1. Two Sum'/>
+        <page name='2. Add Two Numbers'/>
+        <page name='7. Reverse Integer'/>
+        <page name='9. Palindrome Number'/>
+        <page name='11. Container With Most Water'/>
+        <page name='13. Roman to Integer'/>
+        <page name='14. Longest Common Prefix'/>
+        <page name='21. Merge Two Sorted Lists'/>
+        <page name='26. Remove Duplicates from Sorted Array'/>
+        <page name='27. Remove Element'/>
+        <page name='35. Search Insert Position'/>
+        <page name='39. Combination Sum'/>
+        <page name='41. First Missing Positive'/>
+        <page name='48. Rotate Image'/>
+        <page name='54. Spiral Matrix'/>
+        <page name='59. Spiral Matrix II'/>
+        <page name='94. Binary Tree Inorder Traversal'/>
+        <page name='104. Maximum Depth of Binary Tree'/>
+        <page name='105. Construct Binary Tree from Preorder and Inorder Traversal'/>
+        <page name='106. Construct Binary Tree from Inorder and Postorder Traversal'/>
+        <page name='108. Convert Sorted Array to Binary Search Tree'/>
+        <page name='118. Pascal&apos;s Triangle'/>
+        <page name='119. Pascal&apos;s Triangle II'/>
+        <page name='121. Best Time to Buy and Sell Stock'/>
+        <page name='122. Best Time to Buy and Sell Stock II'/>
+        <page name='136. Single Number'/>
+        <page name='144. Binary Tree Preorder Traversal'/>
+        <page name='153. Find Minimum in Rotated Sorted Array'/>
+        <page name='154. Find Minimum in Rotated Sorted Array II'/>
+        <page name='162. Find Peak Element'/>
+        <page name='168. Excel Sheet Column Title'/>
+        <page name='169. Majority Element'/>
+        <page name='171. Excel Sheet Column Number'/>
+        <page name='206. Reverse Linked List'/>
+        <page name='217. Contains Duplicate'/>
+        <page name='219. Contains Duplicate II'/>
+        <page name='220. Contains Duplicate III'/>
+        <page name='226. Invert Binary Tree'/>
+        <page name='242. Valid Anagram'/>
+        <page name='268. Missing Number'/>
+        <page name='283. Move Zeroes'/>
+        <page name='287. Find the Duplicate Number'/>
+        <page name='338. Counting Bits'/>
+        <page name='344. Reverse String'/>
+        <page name='350. Intersection of Two Arrays II'/>
+        <page name='387. First Unique Character in a String'/>
+        <page name='389. Find the Difference'/>
+        <page name='412. Fizz Buzz'/>
+        <page name='419. Battleships in a Board'/>
+        <page name='442. Find All Duplicates in an Array'/>
+        <page name='448. Find All Numbers Disappeared in an Array'/>
+        <page name='451. Sort Characters By Frequency'/>
+        <page name='513. Find Bottom Left Tree Value'/>
+        <page name='537. Complex Number Multiplication'/>
+        <page name='561. Array Partition I'/>
+        <page name='617. Merge Two Binary Trees'/>
+        <page name='654. Maximum Binary Tree'/>
+        <page name='701. Insert into a Binary Search Tree'/>
+        <page name='771. Jewels and Stones'/>
+        <page name='807. Max Increase to Keep City Skyline'/>
+        <page name='832. Flipping an Image'/>
+        <page name='852. Peak Index in a Mountain Array'/>
+        <page name='888. Fair Candy Swap'/>
+        <page name='905. Sort Array By Parity'/>
+        <page name='922. Sort Array By Parity II'/>
+        <page name='950. Reveal Cards In Increasing Order'/>
+        <page name='969. Pancake Sorting'/>
+        <page name='977. Squares of a Sorted Array'/>
+        <page name='1021. Remove Outermost Parentheses'/>
+        <page name='1038. Binary Search Tree to Greater Sum Tree'/>
+    </pages>
 </playground>
