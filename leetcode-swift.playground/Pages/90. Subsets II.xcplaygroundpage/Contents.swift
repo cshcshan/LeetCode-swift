@@ -92,7 +92,7 @@ class Solution {
     // 21.4 MB, less than 33.33%
     func subsetsWithDup(_ nums: [Int]) -> [[Int]] {
         var arrays: [[Int]] = []
-        var nums = nums.sorted(by: <)
+        let nums = nums.sorted(by: <)
         dfs(nums, &arrays, [], 0)
         return arrays
     }
