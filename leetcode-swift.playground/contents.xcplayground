@@ -43,6 +43,7 @@
         <page name='219. Contains Duplicate II'/>
         <page name='220. Contains Duplicate III'/>
         <page name='226. Invert Binary Tree'/>
+        <page name='230. Kth Smallest Element in a BST'/>
         <page name='238. Product of Array Except Self'/>
         <page name='242. Valid Anagram'/>
         <page name='268. Missing Number'/>
@@ -77,6 +78,6 @@
         <page name='977. Squares of a Sorted Array'/>
         <page name='1021. Remove Outermost Parentheses'/>
         <page name='1038. Binary Search Tree to Greater Sum Tree'/>
-        <page name='230. Kth Smallest Element in a BST'/>
+        <page name='202. Happy Number'/>
     </pages>
 </playground>
