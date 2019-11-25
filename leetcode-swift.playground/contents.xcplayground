@@ -85,5 +85,6 @@
         <page name='977. Squares of a Sorted Array'/>
         <page name='1021. Remove Outermost Parentheses'/>
         <page name='1038. Binary Search Tree to Greater Sum Tree'/>
+        <page name='53. Maximum Subarray'/>
     </pages>
 </playground>
