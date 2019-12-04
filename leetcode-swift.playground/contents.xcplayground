@@ -78,6 +78,7 @@
         <page name='350. Intersection of Two Arrays II'/>
         <page name='371. Sum of Two Integers'/>
         <page name='378. Kth Smallest Element in a Sorted Matrix'/>
+        <page name='380. Insert Delete GetRandom O(1)'/>
         <page name='384. Shuffle an Array'/>
         <page name='387. First Unique Character in a String'/>
         <page name='389. Find the Difference'/>
