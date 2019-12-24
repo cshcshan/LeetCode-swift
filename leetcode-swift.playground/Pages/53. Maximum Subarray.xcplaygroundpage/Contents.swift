@@ -14,6 +14,7 @@
  If you have figured out the O(n) solution, try coding another solution using the divide and conquer approach, which is more subtle.
  
  */
+
 class Solution {
     // 48 ms, faster than 21.88%
     // 20.8 MB, less than 16.67%

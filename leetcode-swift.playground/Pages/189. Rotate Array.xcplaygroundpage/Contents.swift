@@ -6,6 +6,7 @@
 
  Input: [1,2,3,4,5,6,7] and k = 3
  Output: [5,6,7,1,2,3,4]
+ 
  Explanation:
  rotate 1 steps to the right: [7,1,2,3,4,5,6]
  rotate 2 steps to the right: [6,7,1,2,3,4,5]
@@ -15,6 +16,7 @@
 
  Input: [-1,-100,3,99] and k = 2
  Output: [3,99,-1,-100]
+ 
  Explanation:
  rotate 1 steps to the right: [99,-1,-100,3]
  rotate 2 steps to the right: [3,99,-1,-100]
@@ -78,7 +80,7 @@ class Solution {
         var left = start
         var right = end
         while left < right {
-            var temp = nums[left]
+            let temp = nums[left]
             nums[left] = nums[right]
             nums[right] = temp
             left += 1

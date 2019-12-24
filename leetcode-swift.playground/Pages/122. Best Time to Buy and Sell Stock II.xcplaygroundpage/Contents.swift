@@ -33,10 +33,6 @@
  
  */
 
-/*
- 
- */
-
 class Solution {
     // 36 ms, faster than 83.33%
     // 21.1 MB, less than 100.00%

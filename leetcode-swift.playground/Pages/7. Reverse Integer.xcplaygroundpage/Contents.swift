@@ -1,10 +1,3 @@
-Int32.min
-Int32.max
-Int64.min
-Int64.max
-UInt32.min
-UInt32.max
-
 /*
  
  Given a 32-bit signed integer, reverse digits of an integer.
@@ -25,6 +18,8 @@ UInt32.max
  Assume we are dealing with an environment which could only store integers within the 32-bit signed integer range: [−231,  231 − 1]. For the purpose of this problem, assume that your function returns 0 when the reversed integer overflows.
  
  */
+
+import Foundation
 
 class Solution {
     func reverse(_ x: Int) -> Int {
@@ -49,6 +44,9 @@ class Solution {
     }
 }
 
+Solution().reverse(123)
+Solution().reverse(-123)
+Solution().reverse(120)
 Solution().reverse(1534236469)
 Solution().reverse(-2147483412)
 Solution().reverse(-2147483648)
